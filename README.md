@@ -17,3 +17,7 @@ Mobile Landscape view
 Tablet Landscape view
 ---------------------
 ![ScreenShot](https://github.com/trbala0205/Dashboard-design/blob/master/Screenshots/Dashboard_landscape_tablet.png?raw=true)
+
+![ScreenShot](https://github.com/trbala0205/Dashboard-design/blob/master/Screenshots/ParameterTable.png?raw=true)
+
+![ScreenShot](https://github.com/trbala0205/Dashboard-design/blob/master/Screenshots/ParameterTable1.png?raw=true)
