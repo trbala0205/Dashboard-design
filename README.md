@@ -7,3 +7,7 @@ Screenshots
 ![ScreenShot](https://github.com/trbala0205/Dashboard-design/blob/master/Screenshots/Dashboard_portrait_mode_with_HScroll.png?raw=true)
 
 ![ScreenShot](https://github.com/trbala0205/Dashboard-design/blob/master/Screenshots/Dashboard_portrait_mode.png?raw=true)
+
+![ScreenShot](https://github.com/trbala0205/Dashboard-design/blob/master/Screenshots/Dashboard_landscape.png?raw=true)
+
+![ScreenShot](https://github.com/trbala0205/Dashboard-design/blob/master/Screenshots/Dashboard_landscape_tablet.png?raw=true)
